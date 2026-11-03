@@ -1,0 +1,19 @@
+# Tick Rest
+
+> Tick Rest is a free, open-source macOS app that reminds you to rest your eyes, stretch, and take breaks throughout your day.
+
+Tick Rest requires macOS 13 (Ventura) or later and supports Apple Silicon and Intel Macs. The Windows version is in development and is not available to download yet.
+
+The recommended installation method is Homebrew: `brew install --cask fthux/tap/tickrest`. The app is not Developer ID signed or notarized, so macOS may still require confirmation on first launch. Refer to the official website for installation guidance.
+
+This file provides a guide to official project information. It does not grant additional rights to the software or website content, or define crawler or training permissions.
+
+## Website
+
+- [English website](https://tick-rest.fthux.com/): Features, screenshots, installation instructions, and frequently asked questions.
+- [简体中文网站](https://tick-rest.fthux.com/zh-CN/): 功能介绍、真实截图、安装说明和常见问题。
+
+## Source and downloads
+
+- [macOS source code and README](https://github.com/fthux/tick-rest-macos): Official source repository and project documentation.
+- [macOS releases](https://github.com/fthux/tick-rest-macos/releases/latest): Latest release, release notes, and downloadable builds.
